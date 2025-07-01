@@ -48,7 +48,7 @@ export default function Contact() {
 
     return (
         <div className='flex justify-center items-center h-[100vh]'>
-            <div className='h-[75vh] w-[30vw] flex flex-col items-center justify-center shadow-xs shadow-stone-600 p-5 rounded-2xl'>
+            <div className='h-[75vh] w-[70vw] md:w-[30vw] flex flex-col items-center justify-center shadow-xs shadow-stone-600 p-5 rounded-2xl'>
                 <div className="header text-center h-[10%] flex items-center justify-center m-2">
                     <p className='text-stone-200 font-bold text-[2rem]'>Contact Us</p>
                 </div>
