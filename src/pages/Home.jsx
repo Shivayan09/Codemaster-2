@@ -10,7 +10,7 @@ import cpp_icon from '../assets/cpp.png';
 import java_icon from '../assets/java.png';
 import py_icon from '../assets/py.png';
 import js_icon from '../assets/js.png';
-import c_icon from '../assets/c.png';
+import c_icon from '../assets/C.png';
 import ts_icon from '../assets/ts.png';
 import php_icon from '../assets/php.png';
 import sql_icon from '../assets/sql.png';
